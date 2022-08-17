@@ -16,4 +16,4 @@
 	Este repositório contém a implementação do HTML + CSS de um dashboard que exibe informações sobre requests feitos a uma API, 	conforme imagem a seguir.
 </p>
 
-![Dashboard](https://raw.githubusercontent.com/ortegavan/dashboard/main/img/dashboard.jpg "Dashboard")
+![Dashboard](https://github.com/ortegavan/work-api-dashboard/blob/c7b837d938ba67c67a85171151f165466d334a18/img/dashboard.jpg "Dashboard")
